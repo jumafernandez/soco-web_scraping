@@ -8,5 +8,5 @@ A continuación se pone a disposición el material para los 3 encuentros sincró
 |-------------|-------------|--------------|--------------|
 | Encuentro 1 | Introducción a HTML, Requests y BeautifulSoup | [Presentación-01](https://docs.google.com/presentation/d/141ejreneeXM3VynC9v2ha-gk2iTR7Es58WTyjLCYLVU/edit?usp=sharing) | [Ejercitación-01](https://docs.google.com/document/d/14UBL2_nVPcEG-C2DHOWozuuXeJmK-VJkcWzj9NeB8qY/edit?usp=sharing) |
 | Encuentro 2 | Introducción a Selenium | [Presentación-02](https://docs.google.com/presentation/d/1HWDJctHokTrECKJV0FvxTW0BL1qNipCUIkEKmQ3mWwk/edit?usp=sharing) | [Ejercitación-02](#) |
-| Encuentro 3 | Extracción de datos con Selenium | [Presentación-02](#) | [Ejercitación-02](#) |
+| Encuentro 3 | Extracción de datos con Selenium | [Presentación-03](#) | [Ejercitación-03](#) |
 
