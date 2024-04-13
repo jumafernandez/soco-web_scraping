@@ -31,13 +31,53 @@
             margin-bottom: 5px;
         }
 
-        input {
+        input[type="text"],
+        input[type="email"],
+        input[type="password"],
+        select {
             width: calc(100% - 20px); /* Considerar el padding */
             padding: 8px;
             margin-bottom: 15px;
             border: 1px solid #ccc;
             border-radius: 3px;
             box-sizing: border-box;
+        }
+
+        .checkbox-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .checkbox-label {
+            margin-bottom: 0;
+            margin-right: 5px;
+        }
+
+        .checkbox-custom {
+            width: 16px;
+            height: 16px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            margin-right: 5px;
+            cursor: pointer;
+        }
+
+        .checkbox-custom:hover {
+            background-color: #f9f9f9;
+        }
+
+        .checkbox-custom.checked {
+            background-color: #4CAF50;
+            border-color: #4CAF50;
+        }
+
+        .checkbox-custom.checked::after {
+            content: "\2713";
+            font-size: 12px;
+            color: #fff;
+            display: block;
+            text-align: center;
+            line-height: 16px;
         }
 
         button {
@@ -73,23 +113,21 @@
             <label for="passwd">Contraseña:</label>
             <input type="password" id="passwd" name="passwd" placeholder="Ingrese su contraseña" required onkeypress="submitOnEnter(event)">
 
-            <div style="display: flex; justify-content: space-between; align-items: center;">
-                <label for="recordar">Recordar Usuario</label>
-                <input type="checkbox" id="recordar" name="recordar">
+            <div class="checkbox-container">
+                <input type="checkbox" id="recordar" name="recordar" class="checkbox-custom">
+                <label for="recordar" class="checkbox-label">Recordar Usuario</label>
             </div>
 
-            <div style="display: flex; justify-content: space-between; align-items: center;">
-                <label for="pais">País:</label>
-                <select id="pais" name="pais">
-                    <option value="argentina">Argentina</option>
-                    <option value="brasil">Brasil</option>
-                    <option value="chile">Chile</option>
-                    <option value="colombia">Colombia</option>
-                    <option value="mexico">México</option>
-                    <option value="peru">Perú</option>
-                    <option value="uruguay">Uruguay</option>
-                </select>
-            </div>
+            <label for="pais">País:</label>
+            <select id="pais" name="pais">
+                <option value="argentina">Argentina</option>
+                <option value="brasil">Brasil</option>
+                <option value="chile">Chile</option>
+                <option value="colombia">Colombia</option>
+                <option value="mexico">México</option>
+                <option value="peru">Perú</option>
+                <option value="uruguay">Uruguay</option>
+            </select>
 
             <button type="submit">Ingresar</button>
         </form>
@@ -120,6 +158,11 @@
             // Mostrar el contenido ingresado y el título
             contenidoMostrado.style.display = "block";
             tituloContenido.style.display = "block";
+        });
+
+        // Cambiar clase de checkbox al hacer clic
+        document.getElementById("recordar").addEventListener("click", function() {
+            this.classList.toggle("checked");
         });
     </script>
 </body>
