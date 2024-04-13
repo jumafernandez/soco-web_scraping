@@ -1,0 +1,393 @@
+                    <div class="product details product-item-details">
+                                                                            <div class="product label product-item-label_title_custom">
+                                                            </div>
+                            <strong class="product name product-item-name">
+                                <a class="product-item-link"
+                                   href="https://bowen.com.ar/p560701252vn.html">
+                                    JEAN KING                                </a>
+                            </strong>
+                                                            <div class="product description product-item-description">
+                                    <span class="short-description"></span>
+                                </div>
+                                                    
+                                                                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="17614" data-price-box="product-id-17614">
+    <span class="old-price sly-old-price no-display" style="display: none;">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Precio habitual</span>
+        <span  id="old-price-17614"                data-price-amount="170000"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$170.000</span></span>
+        </span>
+    </span>
+    <span class="special-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Valor mínimo</span>
+        <span  id="product-price-17614"                data-price-amount="170000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$170.000</span></span>
+        </span>
+    </span>
+    <span class="custom-price" style="display: none;">
+        <span class="price-container price-custom_price tax weee" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+            <span class="custom-price-label"></span>
+            <span data-price-amount="" data-price-type="customPrice" class="custom-price-value price-wrapper ">
+                <span class="price"></span>
+            </span>
+        </span>
+    </span>
+
+</div>                                                        <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                        <form id="tocart-form-17614"
+                                          data-prodid="17614"
+                                          data-role="tocart-form"
+                                          data-product-sku="P560701252VN"
+                                          action="https://bowen.com.ar/checkout/cart/add/uenc/aHR0cHM6Ly9ib3dlbi5jb20uYXIvY29sZWNjaW9uL2ludmllcm5vLTIzL3Zlci10b2RvLmh0bWw_cD0x/product/17614/"
+                                          method="post">
+                                        <input type="hidden"
+                                               name="product"
+                                               value="17614">
+                                        <input type="hidden" name="uenc"
+                                               value="aHR0cHM6Ly9ib3dlbi5jb20uYXIvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OWliM2RsYmk1amIyMHVZWEl2WTI5c1pXTmphVzl1TDJsdWRtbGxjbTV2TFRJekwzWmxjaTEwYjJSdkxtaDBiV3dfY0QweC9wcm9kdWN0LzE3NjE0Lw,,">
+                                        <input name="form_key" type="hidden" value="gjbz9mhFJPnw92uA" />                                        
+<div class="swatch-opt swatch-opt-17614" id="swatch-opt-17614"
+     data-role="swatch-options">
+                        <div id="swatch-group-prod-17614-color" class="swatch-attribute color"
+                 attribute-code="color"
+                 attribute-id="93">
+                                <input class="swatch-input super-attribute-select"
+                       id="prod-17614-93"
+                       name="super_attribute[93]"
+                       type="text"
+                       value=""
+                       data-selector="super_attribute[93]"
+                       data-validate="{required: true}"
+                       aria-required="true"
+                       aria-invalid="false">
+                <div id="attribute-options-17614-color"
+                     aria-activedescendant=""
+                     tabindex="0"
+                     aria-invalid="false"
+                     aria-required="true"
+                     role="listbox"
+                     aria-labelledby="option-label-color-93"
+                     class="swatch-attribute-options clearfix">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div class="swatch-general" data-number="1">
+                                    <div class="swatch-option image"
+                                         id="option-label-color-93-item-5833"
+                                         data-options-products="[17608,17609,17610,17611,17612,17613]"
+                                         data-attr-id="93"
+                                         data-attr-code="color"
+                                         data-option-id="5833"
+                                         data-prod-id="17614"
+                                         data-parent-id="17614"                                          onclick="selectSwatch();"
+                                         option-original-product="17614"
+                                         option-first-product="17608"
+                                         image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                         image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                                                                      hover-image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                             hover-image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                             hover-image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                             hover-image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                                                                  aria-label="ALOHA PRINT"
+                                         role="option"
+                                         style="background: url('https://bowen.com.ar/media/attribute/swatch/swatch_image/50x50/e/s/estampa_41.jpg') no-repeat center; background-size: initial;">
+                                                                                                                                                                                <input class="gallery-item"
+                                                       type="hidden"
+                                                       data-image=0                                                       image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                                       image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                                       image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                                       image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.webp">
+                                                                                            <input class="gallery-item"
+                                                       type="hidden"
+                                                       data-image=1                                                       image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                                       image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                                       image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                                       image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.webp">
+                                                                                            <input class="gallery-item"
+                                                       type="hidden"
+                                                       data-image=2                                                       image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_01.jpg"
+                                                       image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_01.webp"
+                                                       image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_01.jpg"
+                                                       image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_01.webp">
+                                                                                            <input class="gallery-item"
+                                                       type="hidden"
+                                                       data-image=3                                                       image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_03.jpg"
+                                                       image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_03.webp"
+                                                       image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_03.jpg"
+                                                       image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_03.webp">
+                                                                                                                        </div>
+                                    <div class="swatch-liner"></div>
+                                </div>
+                                                                                        </div>
+            </div>
+                                <div id="swatch-group-prod-17614-size" class="swatch-attribute size"
+                 attribute-code="size"
+                 attribute-id="138">
+                                    <a type="button"
+                       id="quickadd-close-17614"
+                       data-prodid="17614"
+                       class="quickadd-close">
+                    </a>
+                    <div id="loader-size-17614" style="display: none";
+                         class="size-loader">
+                        <span>Cargando talles...</span>
+                    </div>
+                                <input class="swatch-input super-attribute-select"
+                       id="prod-17614-138"
+                       name="super_attribute[138]"
+                       type="text"
+                       value=""
+                       data-selector="super_attribute[138]"
+                       data-validate="{required: true}"
+                       aria-required="true"
+                       aria-invalid="false">
+                <div id="attribute-options-17614-size"
+                     aria-activedescendant=""
+                     tabindex="0"
+                     aria-invalid="false"
+                     aria-required="true"
+                     role="listbox"
+                     aria-labelledby="option-label-size-138"
+                     class="swatch-attribute-options clearfix">
+                                                                                                                                                                                                                                                                                                                                                            <div class="swatch-general" data-number="1">
+                                    <div class="swatch-option text"
+                                         id="option-label-size-138-item-5460"
+                                         data-attr-id="138"
+                                         data-attr-code="size"
+                                         data-option-id="5460"
+                                         data-prod-id="17614"
+                                                                                 data-options-products="[17608]"
+                                         onclick="selectSwatch();"
+                                         option-original-product="17614"
+                                         option-first-product="17608"
+                                         image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                         image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                                                                    hover-image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                            hover-image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                                                                 aria-label="28"
+                                         role="option">28                                                                            </div>
+                                    <div class="swatch-liner"></div>
+                                </div>
+                                                                                                                                                                                                                                                                                                                                                                                            <div class="swatch-general" data-number="2">
+                                    <div class="swatch-option text"
+                                         id="option-label-size-138-item-5461"
+                                         data-attr-id="138"
+                                         data-attr-code="size"
+                                         data-option-id="5461"
+                                         data-prod-id="17614"
+                                                                                 data-options-products="[17609]"
+                                         onclick="selectSwatch();"
+                                         option-original-product="17614"
+                                         option-first-product="17609"
+                                         image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                         image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                                                                    hover-image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                            hover-image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                                                                 aria-label="30"
+                                         role="option">30                                                                            </div>
+                                    <div class="swatch-liner"></div>
+                                </div>
+                                                                                                                                                                                                                                                                                                                                                                                            <div class="swatch-general" data-number="3">
+                                    <div class="swatch-option text"
+                                         id="option-label-size-138-item-5462"
+                                         data-attr-id="138"
+                                         data-attr-code="size"
+                                         data-option-id="5462"
+                                         data-prod-id="17614"
+                                                                                 data-options-products="[17610]"
+                                         onclick="selectSwatch();"
+                                         option-original-product="17614"
+                                         option-first-product="17610"
+                                         image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                         image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                                                                    hover-image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                            hover-image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                                                                 aria-label="32"
+                                         role="option">32                                                                            </div>
+                                    <div class="swatch-liner"></div>
+                                </div>
+                                                                                                                                                                                                                                                                                                                                                                                            <div class="swatch-general" data-number="4">
+                                    <div class="swatch-option text"
+                                         id="option-label-size-138-item-5463"
+                                         data-attr-id="138"
+                                         data-attr-code="size"
+                                         data-option-id="5463"
+                                         data-prod-id="17614"
+                                                                                 data-options-products="[17611]"
+                                         onclick="selectSwatch();"
+                                         option-original-product="17614"
+                                         option-first-product="17611"
+                                         image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                         image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                                                                    hover-image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                            hover-image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                                                                 aria-label="34"
+                                         role="option">34                                                                            </div>
+                                    <div class="swatch-liner"></div>
+                                </div>
+                                                                                                                                                                                                                                                                                                                                                                                            <div class="swatch-general" data-number="5">
+                                    <div class="swatch-option text"
+                                         id="option-label-size-138-item-5464"
+                                         data-attr-id="138"
+                                         data-attr-code="size"
+                                         data-option-id="5464"
+                                         data-prod-id="17614"
+                                                                                 data-options-products="[17612]"
+                                         onclick="selectSwatch();"
+                                         option-original-product="17614"
+                                         option-first-product="17612"
+                                         image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                         image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                                                                    hover-image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                            hover-image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                                                                 aria-label="36"
+                                         role="option">36                                                                            </div>
+                                    <div class="swatch-liner"></div>
+                                </div>
+                                                                                                                                                                                                                                                                                                                                                                                            <div class="swatch-general" data-number="6">
+                                    <div class="swatch-option text"
+                                         id="option-label-size-138-item-5465"
+                                         data-attr-id="138"
+                                         data-attr-code="size"
+                                         data-option-id="5465"
+                                         data-prod-id="17614"
+                                                                                 data-options-products="[17613]"
+                                         onclick="selectSwatch();"
+                                         option-original-product="17614"
+                                         option-first-product="17613"
+                                         image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                         image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.jpg"
+                                         image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_05.webp"
+                                                                                    hover-image-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-desktop="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                            hover-image-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.jpg"
+                                            hover-image-webp-mobile="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb56252_king_denim_pant_vn_00.webp"
+                                                                                 aria-label="38"
+                                         role="option">38                                                                            </div>
+                                    <div class="swatch-liner"></div>
+                                </div>
+                                                                                        </div>
+            </div>
+            </div>                                        <button type="submit" style="display: none;"
+                                                id="tocart-button-17614"
+                                                title="Agregar&#x20;al&#x20;carrito"
+                                                class="action tocart primary">
+                                            <span>Agregar al carrito</span>
+                                        </button>
+                                    </form>
+                                </div>
+                                <div class="actions-secondary" data-role="add-to-links" >
+                                                                                <a href="#"
+       class="action towishlist"
+       title="A&#xF1;adir&#x20;a&#x20;la&#x20;Lista&#x20;de&#x20;Deseos"
+       aria-label="A&#xF1;adir&#x20;a&#x20;la&#x20;Lista&#x20;de&#x20;Deseos"
+       data-post='{"action":"https:\/\/bowen.com.ar\/wishlist\/index\/add\/","data":{"product":17614,"uenc":"aHR0cHM6Ly9ib3dlbi5jb20uYXIvY29sZWNjaW9uL2ludmllcm5vLTIzL3Zlci10b2RvLmh0bWw_cD0x"}}'
+       data-action="add-to-wishlist"
+       role="button">
+        <span>Añadir a la Lista de Deseos</span>
+    </a>
+<a href="#"
+   class="action tocompare"
+   title="A&#xF1;adir&#x20;para&#x20;comparar"
+   aria-label="A&#xF1;adir&#x20;para&#x20;comparar"
+   data-post='{"action":"https:\/\/bowen.com.ar\/catalog\/product_compare\/add\/","data":{"product":"17614","uenc":"aHR0cHM6Ly9ib3dlbi5jb20uYXIvY29sZWNjaW9uL2ludmllcm5vLTIzL3Zlci10b2RvLmh0bWw_cD0x"}}'
+   role="button">
+    <span>Añadir para comparar</span>
+</a>
+<a onclick="window.dataLayer.push({'event':'select_item','item_list_name':'Ver todo','ecommerce':{'items':[{'item_name':'JEAN KING','item_id':'P560701252VN','price':'170000.00','item_brand':null,'item_list_name':'Ver todo','item_list_id':'221','currency':'ARS'}]}, 'eventCallback': function() { document.location = 'https://bowen.com.ar/p560701252vn.html';return false; }});" href="https://bowen.com.ar/p560701252vn.html"
+        class="gaclick product-item-link"
+        tabindex="-1">
+</a>
+                                                                    </div>
+                            </div>
+                                            </div>
+                </div>
+                                                                                                                                                                                                            </li><li class="item product product-item">                <div class="product-item-info typeconfigurable"
+                     data-container="product-grid"
+                        name="product-13477"
+                        data-prodid="13477"
+                        data-prodsku="P550701056VB"
+                        id="dynamic-trigger-13477">
+                                        <div class="product photo product-item-photo  grid-carousel "
+                            id="product-photo-13477"
+                            data-prodid="13477">
+                                                <a type="button"
+                           id="quickadd-trigger-13477"
+                           data-prodid="13477"
+                           class="quickadd">
+                        </a>
+                                                                            <div class="carousel-commands">
+                                <div class="command-left" >
+                                    <a type="button"
+                                       data-code-id="13477"
+                                       data-direction="left"
+                                       class="cycle" onclick="imageCycle()">
+                                    </a>
+                                </div>
+                                <div class="command-right" >
+                                    <a type="button"
+                                       data-code-id="13477"
+                                       data-direction="right"
+                                       class="cycle" onclick="imageCycle()">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="carousel-dots" data-code-id="13477">
+                            </div>
+                                                <a class="product-trigger"
+                           data-code-id="13477"
+                           data-product-url="https://bowen.com.ar/p550701056vb.html"
+                           href="https://bowen.com.ar/p550701056vb.html"
+                           data-prodtype="configurable"
+                           tabindex="-1">
+                            <div class="product-gallery"
+                                 data-code-id="13477">
+                                                                                                            <picture class="image-one">
+                                            <source class="src-1" media="(max-width:1024px)" srcset="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb55252_king_pant_vb_05.webp" type="image/webp">
+                                            <source class="src-2" media="(max-width:1024px)" srcset="https://bowen.com.ar/media/catalog/product/cache/135b7ee5b2b543300eec0a7e4ca938d3/t/b/tb55252_king_pant_vb_05.jpg">
+                                            <source class="src-3" media="(max-width:5000px)" srcset="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb55252_king_pant_vb_05.webp" type="image/webp">
+                                            <source class="src-4" media="(max-width:5000px)" srcset="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb55252_king_pant_vb_05.jpg">
+                                            <img class="product-image-photo not-loaded default_image"
+                                                 src="https://bowen.com.ar/media/catalog/product/cache/fdfa360f26b5e1b3f42229e6d67d9a8d/t/b/tb55252_king_pant_vb_05.jpg"
+                                                 width="300"
+                                                 height="300"
+                                                 alt="JEAN KING"
+                                                 title="JEAN KING"/>
+                                        </picture>
+
+                                                                                                </div>
+                        </a>
+                        
+                    </div>
