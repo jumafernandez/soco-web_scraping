@@ -40,3 +40,4 @@ time.sleep(5)
 
 # Cerrar el navegador al finalizar
 driver.quit()
+
