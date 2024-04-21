@@ -3,53 +3,90 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Taller "Web Scraping con Python"</title>
+    <title>Web Scraping con Python y Selenium</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f7f7f7;
             margin: 0;
             padding: 0;
+            background-color: #f4f4f4;
         }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 10px 0;
-            text-align: center;
-        }
+
         .container {
             max-width: 1200px;
-            margin: 20px auto;
-            padding: 0 20px;
+            margin: 0 auto;
+            padding: 20px;
         }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        .logo {
+            width: 50px;
+            height: 50px;
+            margin-right: 10px;
+        }
+
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #777;
+        }
+
+        .footer p {
+            margin: 0;
+        }
+
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 20px;
+            margin-top: 20px;
         }
+
         th, td {
+            border: 1px solid #ccc;
             padding: 10px;
-            border: 1px solid #ddd;
-            text-align: center;
+            text-align: left;
         }
+
         th {
             background-color: #333;
             color: #fff;
         }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Taller "Web Scraping con Python"</h1>
+        <img class="logo" src="https://www.python.org/static/img/python-logo.png" alt="Logo Python">
+        <h1>Taller de Web Scraping con Python y Selenium</h1>
+        <img class="logo" src="https://www.selenium.dev/favicons/apple-touch-icon-180x180.png" alt="Logo Selenium">
     </header>
     <div class="container">
+        <div class="content">
+            <p>En este repositorio se encuentran todos los materiales del Taller de "Web Scraping on Python" dictado para el personal técnico de la Dirección Provincial de Estadística de la Provincia de Buenos Aires en el marco del Proyecto SOCO (Sistema para la obtención automática de datos para el Índice de Precios al Consumidor de la Provincia de Buenos Aires).</p>
+        </div>
         <table>
             <thead>
                 <tr>
@@ -80,6 +117,9 @@
                 </tr>
             </tbody>
         </table>
+    </div>
+    <div class="footer">
+        <p>© 2024 Taller de Web Scraping con Python y Selenium</p>
     </div>
 </body>
 </html>
