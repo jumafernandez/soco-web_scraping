@@ -26,10 +26,6 @@ time.sleep(5)
 actions.double_click(box2).perform()
 time.sleep(5)
 
-# Ejemplo 3: Arrastrar Box 3 a Box 1
-actions.drag_and_drop(box3, box1).perform()
-time.sleep(5)
-
 # Ejemplo 4: Mover el mouse a Box 2
 actions.move_to_element(box2).perform()
 time.sleep(5)
