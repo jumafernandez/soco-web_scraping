@@ -8,7 +8,8 @@ import time
 driver = webdriver.Chrome()
 
 # Abrir la página web
-driver.get("https://jumafernandez.github.io/soco-web_scraping/data/html-actionchains.html")
+URL = "https://jumafernandez.github.io/soco-web_scraping/data/html-actionchains.html"
+driver.get(URL)
 
 # Encontrar los elementos sobre los cuales realizar la acción
 box1 = driver.find_element(By.ID, "box1")
@@ -36,4 +37,3 @@ time.sleep(5)
 
 # Cerrar el navegador al finalizar
 driver.quit()
-
