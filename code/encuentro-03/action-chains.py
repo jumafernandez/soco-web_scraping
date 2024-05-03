@@ -8,7 +8,7 @@ import time
 driver = webdriver.Chrome()
 
 # Abrir la página web
-URL = "https://jumafernandez.github.io/soco-web_scraping/data/encuentro03/html-actionchains.html"
+URL = "https://jumafernandez.github.io/soco-web_scraping/data/encuentro-03/html-actionchains.html"
 driver.get(URL)
 
 # Encontrar los elementos sobre los cuales realizar la acción
