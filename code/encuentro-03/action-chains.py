@@ -28,7 +28,7 @@ actions.double_click(box2).perform()
 time.sleep(5)
 
 # Ejemplo 4: Mover el mouse a Box 2
-actions.move_to_element(box2).perform()
+actions.move_to_element(box3).perform()
 time.sleep(5)
 
 # Ejemplo 5: Presionar la tecla Shift mientras hacemos clic en Box 3
