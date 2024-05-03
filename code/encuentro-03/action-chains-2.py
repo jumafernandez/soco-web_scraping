@@ -16,6 +16,9 @@ droppable_element = driver.find_element(By.ID, "droppable")
 # Crear una instancia de ActionChains
 action_chains = ActionChains(driver)
 
+# Esperar unos segundos para realizar la acción
+time.sleep(3)
+
 # Arrastrar y soltar el elemento draggable en el droppable
 action_chains.drag_and_drop(draggable_element, droppable_element).perform()
 
